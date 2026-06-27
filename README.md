@@ -26,14 +26,12 @@ Frontend
 - React 18
 - TypeScript
 - Tailwind CSS
-- Leaflet.js
-
+  
 Backend
 - FastAPI
 - REST APIs
-- Authentication layer
 - Response caching
-
+  
 Machine Learning
 - Gradient Boosting Classifier
 - Feature Engineering Pipeline
