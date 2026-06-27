@@ -1,4 +1,4 @@
-## Flipkart Gridlock Hackthon
+## Flipkart Gridlock Hackathon
 
 ## Problem statement : 
 Urban areas frequently experience congestion due to illegal on-street parking and spillover parking near commercial areas, metro stations, hospitals, markets, and event venues.
